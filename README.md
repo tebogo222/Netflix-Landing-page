@@ -17,7 +17,7 @@ A modern, responsive Netflix landing page recreation built with HTML, CSS, and v
 
 ## 📋 Overview
 
-This is a pixel-perfect recreation of the Netflix landing page for the Indian market. The project showcases a full-featured streaming service homepage with a hero section, feature highlights, FAQ section, and footer navigation. It's fully responsive and optimized for all device sizes.
+This is a pixel-perfect recreation of the Netflix landing page. The project showcases a full-featured streaming service homepage with a hero section, feature highlights, FAQ section, and footer navigation. It's fully responsive and optimized for all device sizes.
 
 ## ✨ Features
 
